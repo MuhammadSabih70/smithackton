@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background: no-repeat;
+    background-image:url(g),url(..//--.) ;
+    background-repeat: no-repeat;
+   }
+.backgrond{
+    background-image: url(../Hackatoon/bg-pattern-1.svg),url(../Hackatoon/bg-pattern-3.svg);
+    align-items: center;
+    height: 1440;
+    width: 750;
+
+    
+}
+   
